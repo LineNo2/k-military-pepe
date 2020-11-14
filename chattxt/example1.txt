@@ -1,0 +1,35 @@
+==============================================================
+Guild: {GuildName}
+Channel: {ChannelFolder} / {ChannelName1}
+==============================================================
+
+[26-Jul-20 12:14 AM] {UserName1}
+일반인 열람금지
+
+
+[26-Jul-20 01:06 AM] {UserName2}
+싫어하는
+
+
+[26-Jul-20 01:06 AM] {UserName2}
+짤이다
+
+
+[26-Jul-20 01:07 AM] {UserName1}
+이건아니지
+
+
+[30-Jul-20 08:59 PM] {UserName3}
+씟
+
+
+[01-Aug-20 01:21 AM] {UserName4}
+holy shit
+
+
+[15-Aug-20 04:31 PM] {UserName2}
+어
+
+
+[15-Aug-20 04:31 PM] {UserName2}
+이거

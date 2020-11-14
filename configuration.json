@@ -1,0 +1,58 @@
+{
+    "botSetting": {
+        "maxTime": 3600,
+        "minTime": 0,
+        "sendingIntervalTime": 30,
+        "sendingRandomDelay": 10,
+        "sendingMode": 0,
+        "workingMode": 0,
+        "blockDelayMode": 0
+    },
+    "channelCode": {
+        "{channelName1}": 1,
+        "{channelName2}": 2
+    },
+    "userCode": {
+        "{userName1}": "{userCode1}",
+        "{userName2}": "{userCode2}",
+        "{userName3}": "{userCode3}",
+        "{userName4}": "{userCode4}",
+        "{userName5}": "{userCode5}",
+        "{userName6}": "{userCode6}"
+    },
+    "userState": {
+        "{userCode1}": "{userState1}",
+        "{userCode2}": "{userState2}",
+        "{userCode3}": "{userState3}",
+        "{userCode4}": "{userState4}",
+        "{userCode5}": "{userState5}",
+        "{userCode6}": "{userState6}",
+        "{userCode7}": "{userState7}",
+        "undefined": 0
+    },
+    "webHook": {
+        "token1": {
+            "{userCode1}": "{webHookArgs[0]1}",
+            "{userCode2}": "{webHookArgs[0]2}",
+            "{userCode3}": "{webHookArgs[0]3}",
+            "{userCode4}": "{webHookArgs[0]4}",
+            "{userCode5}": "{webHookArgs[0]5}",
+            "{userCode6}": "{webHookArgs[0]6}",
+            "{userCode7}": "{webHookArgs[0]7}",
+            "undefined": "{webHookArgs[0]forUndefinedUserChat}"
+        },
+        "token2": {
+            "{userCode1}": "{webHookArgs[1]1}",
+            "{userCode2}": "{webHookArgs[1]2}",
+            "{userCode3}": "{webHookArgs[1]3}",
+            "{userCode4}": "{webHookArgs[1]4}",
+            "{userCode5}": "{webHookArgs[1]5}",
+            "{userCode6}": "{webHookArgs[1]6}",
+            "{userCode7}": "{webHookArgs[1]7}",
+            "undefined": "{webHookArgs[1]forUndefinedUserChat}"
+        }
+    },
+    "parserSetting": {
+        "blcokRange": 1
+    }
+}

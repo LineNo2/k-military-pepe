@@ -1,0 +1,47 @@
+==============================================================
+Guild: {GuildName}
+Channel: {ChannelFolder} / {ChannelName2}
+Topic: {SomeTopic}
+==============================================================
+
+[31-May-20 10:05 PM] {UserName1}
+ㄹㅇㅋㅋ
+
+
+[31-May-20 10:05 PM] {UserName1}
+아니
+
+
+[31-May-20 10:05 PM] {UserName5}
+미쳤어?
+
+[31-May-20 10:32 PM] {UserName5}
+ㅈㅈ
+
+
+[31-May-20 10:35 PM] {UserName3}
+ㅁㄴㅇㄹ
+
+
+[31-May-20 10:35 PM] {UserName5}
+노란양말
+
+
+[31-May-20 10:35 PM] {UserName1}
+마누라야
+
+
+[31-May-20 10:44 PM] {UserName6}
+알쓰도이쿠요
+
+
+[31-May-20 10:45 PM] {UserName1}
+킴
+
+
+[31-May-20 10:45 PM] {UserName1}
+Live
+
+
+[31-May-20 10:45 PM] {UserName1}
+on
